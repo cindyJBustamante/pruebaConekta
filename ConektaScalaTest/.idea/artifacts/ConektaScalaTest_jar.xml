@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConektaScalaTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConektaScalaTest_jar</output-path>
+    <root id="archive" name="ConektaScalaTest.jar">
+      <element id="module-output" name="ConektaScalaTest" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.4-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

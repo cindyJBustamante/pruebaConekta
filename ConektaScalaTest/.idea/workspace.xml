@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ConektaScalaTest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcb737e7-632c-4412-8346-d69cce91f29d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ktH82HHPsTyx4qSLDG9SrIMdCo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumber" />
+      <module name="ConektaScalaTest" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;67&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MissingNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ConektaScalaTest" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="conektascalatest [file:/C:/Users/vn0nv6j/IdeaProjects/ConektaScalaTest/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ConektaScalaTest-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3213025608834" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1129099669" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="215572122" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcb737e7-632c-4412-8346-d69cce91f29d" name="Default Changelist" comment="" />
+      <created>1606512804389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606512804389</updated>
+      <workItem from="1606512807706" duration="839000" />
+      <workItem from="1606513761885" duration="1433000" />
+      <workItem from="1606519336404" duration="1364000" />
+      <workItem from="1606522817543" duration="1791000" />
+      <workItem from="1606524699329" duration="1787000" />
+      <workItem from="1606526521782" duration="1864000" />
+      <workItem from="1606528408037" duration="1519000" />
+      <workItem from="1606530425631" duration="1794000" />
+      <workItem from="1606532240107" duration="585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606531888858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1606531888858" />
+    <state x="421" y="48" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1606528706911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="48" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1606528706911" />
+    <state x="370" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606532071893">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1606532071893" />
+    <state x="274" y="33" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1606513046803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="274" y="33" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1606513046803" />
+    <state width="1237" height="149" key="GridCell.Tab.0.bottom" timestamp="1606531892748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606531892748" />
+    <state width="1237" height="149" key="GridCell.Tab.0.center" timestamp="1606531892748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606531892748" />
+    <state width="1237" height="149" key="GridCell.Tab.0.left" timestamp="1606531892748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606531892748" />
+    <state width="1237" height="149" key="GridCell.Tab.0.right" timestamp="1606531892748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606531892748" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1606532104110">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606532104110" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1606532245370">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606532245370" />
+  </component>
+</project>
